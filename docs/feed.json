@@ -12,7 +12,7 @@
             "description": "Learn the RxSwift on iPad",
             "contentIdentifier": "com.jinher.iTBoyer",
             "contentVersion": "1.0",
-            "url": "https://huos3203.github.io/iPlayBook/IntrotoCI/Rx回答.playgroundbook.zip",
+            "url": "https://huos3203.github.io/iPlayBook/IntrotoCI/RxSwift.playgroundbook.zip",
             "publishedDate": "2018-06-23T12:07:20-0700",
             "lastUpdatedDate": "2018-06-23T12:07:20-0700",
             "thumbnailURL": "IntrotoCI/thumbnail.png",
@@ -20,7 +20,7 @@
             "additionalInformation": [
                 {
                     "name": "学习",
-                    "value": "RxSwift"
+                    "value": "RxSwiftRxSwift"
                 }
             ],
             "previewImageURLs": [
