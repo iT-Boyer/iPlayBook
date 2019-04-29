@@ -1,5 +1,5 @@
 {
-    "title": "函数响应式编程",
+    "title": "iTBoyer",
     "publisherName": "Rx回答",
     "feedIdentifier": "com.jinher",
     "contactURL": "mailto:iTBoyer@qq.com",
@@ -7,12 +7,12 @@
     "documents": [
         {
             "title": "Rx回答",
-            "overviewSubtitle": "RxSwift in Playground on iPad",
+            "overviewSubtitle": "函数响应式编程",
             "detailSubtitle": "Learn the RxSwift on iPad",
             "description": "使用回答模式在playground编写学习RxSwift编程",
             "contentIdentifier": "com.jinher.iTBoyer",
             "contentVersion": "1.0",
-            "url": "https://huos3203.github.io/iPlayBook/iTBoyer/RxSwift.playgroundbook.zip",
+            "url": "iTBoyer/RxSwift.playgroundbook.zip",
             "publishedDate": "2018-06-23T12:07:20-0700",
             "lastUpdatedDate": "2018-06-23T12:07:20-0700",
             "thumbnailURL": "iTBoyer/thumbnail.png",
@@ -26,6 +26,29 @@
             "previewImageURLs": [
                 "iTBoyer/previewImage.png",
                 "iTBoyer/previewImage2.png"
+            ]
+        },
+        {
+            "title": "WWDC17",
+            "overviewSubtitle": "RxSwift in Playground on iPad",
+            "detailSubtitle": "WWDC 2017 Scholarship Submission by Phil Zet",
+            "description": "WWDC 2017 Scholarship Submission by Phil Zet (Philipp Zakharchenko)https://philzet.com",
+            "contentIdentifier": "com.jinher.WWDC17",
+            "contentVersion": "1.0",
+            "url": "WWDC17/WWDC17.playgroundbook.zip",
+            "publishedDate": "2018-06-23T12:07:20-0700",
+            "lastUpdatedDate": "2018-06-23T12:07:20-0700",
+            "thumbnailURL": "WWDC17/thumbnail.png",
+            "bannerImageURL": "WWDC17/bannerImage.png",
+            "additionalInformation": [
+                {
+                    "name": "学习",
+                    "value": "RxSwiftRxSwift"
+                }
+            ],
+            "previewImageURLs": [
+                "WWDC17/previewImage.png",
+                "WWDC17/previewImage2.png"
             ]
         }
     ]

@@ -113,6 +113,11 @@
 		84FAEF622276F99B00A1D9A7 /* thumbnail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumbnail.png; sourceTree = "<group>"; };
 		84FAEF632276F99B00A1D9A7 /* previewImage2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = previewImage2.png; sourceTree = "<group>"; };
 		84FAEF642276F99B00A1D9A7 /* bannerImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bannerImage.png; sourceTree = "<group>"; };
+		84FAEF66227710E500A1D9A7 /* bannerImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bannerImage.png; path = ../iTBoyer/bannerImage.png; sourceTree = "<group>"; };
+		84FAEF67227710E500A1D9A7 /* thumbnail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = thumbnail.png; path = ../iTBoyer/thumbnail.png; sourceTree = "<group>"; };
+		84FAEF68227710E500A1D9A7 /* previewImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = previewImage.png; path = ../iTBoyer/previewImage.png; sourceTree = "<group>"; };
+		84FAEF69227710E500A1D9A7 /* previewImage2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = previewImage2.png; path = ../iTBoyer/previewImage2.png; sourceTree = "<group>"; };
+		84FAEF6B2277110600A1D9A7 /* WWDC17.playgroundbook.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = WWDC17.playgroundbook.zip; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -273,6 +278,7 @@
 				84FAEF592276E20800A1D9A7 /* index.html */,
 				84FAEF5B2276E3BF00A1D9A7 /* feed.json */,
 				84FAEF5C2276EA5000A1D9A7 /* iTBoyer */,
+				84FAEF6522770FFE00A1D9A7 /* WWDC17 */,
 				84FAEF5D2276EB1700A1D9A7 /* README.md */,
 			);
 			name = docs;
@@ -289,6 +295,18 @@
 				84FAEF622276F99B00A1D9A7 /* thumbnail.png */,
 			);
 			path = iTBoyer;
+			sourceTree = "<group>";
+		};
+		84FAEF6522770FFE00A1D9A7 /* WWDC17 */ = {
+			isa = PBXGroup;
+			children = (
+				84FAEF66227710E500A1D9A7 /* bannerImage.png */,
+				84FAEF68227710E500A1D9A7 /* previewImage.png */,
+				84FAEF69227710E500A1D9A7 /* previewImage2.png */,
+				84FAEF67227710E500A1D9A7 /* thumbnail.png */,
+				84FAEF6B2277110600A1D9A7 /* WWDC17.playgroundbook.zip */,
+			);
+			path = WWDC17;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
