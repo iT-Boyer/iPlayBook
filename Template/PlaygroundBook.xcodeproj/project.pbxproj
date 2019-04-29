@@ -106,6 +106,8 @@
 		5EF2F9AD2054BBF300191409 /* LiveViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveViewController.swift; sourceTree = "<group>"; };
 		5EF2F9B62054E6F900191409 /* Chapters */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapters; sourceTree = "<group>"; };
 		84FAEF592276E20800A1D9A7 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		84FAEF5B2276E3BF00A1D9A7 /* feed.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = feed.json; sourceTree = "<group>"; };
+		84FAEF5D2276EB1700A1D9A7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -264,9 +266,19 @@
 			isa = PBXGroup;
 			children = (
 				84FAEF592276E20800A1D9A7 /* index.html */,
+				84FAEF5B2276E3BF00A1D9A7 /* feed.json */,
+				84FAEF5C2276EA5000A1D9A7 /* IntrotoCI */,
+				84FAEF5D2276EB1700A1D9A7 /* README.md */,
 			);
 			name = docs;
 			path = ../docs;
+			sourceTree = "<group>";
+		};
+		84FAEF5C2276EA5000A1D9A7 /* IntrotoCI */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = IntrotoCI;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

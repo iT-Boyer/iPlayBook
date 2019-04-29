@@ -1,0 +1,35 @@
+{
+    "title": "Education",
+    "publisherName": "Andrew Selvia",
+    "feedIdentifier": "me.selvia.andrew",
+    "contactURL": "mailto:andrew@selvia.me",
+    "formatVersion": "1.0",
+    "documents": [
+        {
+            "title": "Computer Science",
+            "overviewSubtitle": "An introduction to computer science",
+            "detailSubtitle": "Detail Subtitle",
+            "description": "Learn the basics of computer science",
+            "contentIdentifier": "me.selvia.andrew.computer-science",
+            "contentVersion": "1.0",
+            "url": "https://andrew.selvia.me/education/computer-science/Computer%20Science.playgroundbook.zip",
+            "publishedDate": "2018-06-23T12:07:20-0700",
+            "lastUpdatedDate": "2018-06-23T12:07:20-0700",
+            "thumbnailURL": "IntrotoCI/thumbnail.png",
+            "bannerImageURL": "IntrotoCI/bannerImage.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+                "IntrotoCI/previewImage.png",
+                "IntrotoCI/previewImage2.png"
+            ]
+        },
+        {},
+        {},
+        {}
+    ]
+}
