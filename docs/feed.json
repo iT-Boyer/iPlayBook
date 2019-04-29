@@ -1,26 +1,26 @@
 {
     "title": "Education",
     "publisherName": "Andrew Selvia",
-    "feedIdentifier": "me.selvia.andrew",
+    "feedIdentifier": "com.jinher",
     "contactURL": "mailto:andrew@selvia.me",
     "formatVersion": "1.0",
     "documents": [
         {
             "title": "Computer Science",
-            "overviewSubtitle": "An introduction to computer science",
+            "overviewSubtitle": "RxSwift in Playground on iPad",
             "detailSubtitle": "Detail Subtitle",
-            "description": "Learn the basics of computer science",
-            "contentIdentifier": "me.selvia.andrew.computer-science",
+            "description": "Learn the RxSwift on iPad",
+            "contentIdentifier": "com.jinher.iTBoyer",
             "contentVersion": "1.0",
-            "url": "https://andrew.selvia.me/education/computer-science/Computer%20Science.playgroundbook.zip",
+            "url": "https://huos3203.github.io/iPlayBook/IntrotoCI/Rx回答.playgroundbook.zip",
             "publishedDate": "2018-06-23T12:07:20-0700",
             "lastUpdatedDate": "2018-06-23T12:07:20-0700",
             "thumbnailURL": "IntrotoCI/thumbnail.png",
             "bannerImageURL": "IntrotoCI/bannerImage.png",
             "additionalInformation": [
                 {
-                    "name": "Languages",
-                    "value": "English"
+                    "name": "学习",
+                    "value": "RxSwift"
                 }
             ],
             "previewImageURLs": [
