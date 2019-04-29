@@ -1,5 +1,5 @@
 {
-    "title": "Education",
+    "title": "函数响应式编程",
     "publisherName": "Rx回答",
     "feedIdentifier": "com.jinher",
     "contactURL": "mailto:iTBoyer@qq.com",
@@ -27,9 +27,6 @@
                 "iTBoyer/previewImage.png",
                 "iTBoyer/previewImage2.png"
             ]
-        },
-        {},
-        {},
-        {}
+        }
     ]
 }
