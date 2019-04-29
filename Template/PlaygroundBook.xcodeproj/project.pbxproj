@@ -272,14 +272,14 @@
 			children = (
 				84FAEF592276E20800A1D9A7 /* index.html */,
 				84FAEF5B2276E3BF00A1D9A7 /* feed.json */,
-				84FAEF5C2276EA5000A1D9A7 /* IntrotoCI */,
+				84FAEF5C2276EA5000A1D9A7 /* iTBoyer */,
 				84FAEF5D2276EB1700A1D9A7 /* README.md */,
 			);
 			name = docs;
 			path = ../docs;
 			sourceTree = "<group>";
 		};
-		84FAEF5C2276EA5000A1D9A7 /* IntrotoCI */ = {
+		84FAEF5C2276EA5000A1D9A7 /* iTBoyer */ = {
 			isa = PBXGroup;
 			children = (
 				84FAEF642276F99B00A1D9A7 /* bannerImage.png */,
@@ -288,7 +288,7 @@
 				84FAEF602276F99B00A1D9A7 /* RxSwift.playgroundbook.zip */,
 				84FAEF622276F99B00A1D9A7 /* thumbnail.png */,
 			);
-			path = IntrotoCI;
+			path = iTBoyer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

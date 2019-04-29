@@ -1,22 +1,22 @@
 {
     "title": "Education",
-    "publisherName": "Andrew Selvia",
+    "publisherName": "Rx回答",
     "feedIdentifier": "com.jinher",
-    "contactURL": "mailto:andrew@selvia.me",
+    "contactURL": "mailto:iTBoyer@qq.com",
     "formatVersion": "1.0",
     "documents": [
         {
-            "title": "Computer Science",
+            "title": "Rx回答",
             "overviewSubtitle": "RxSwift in Playground on iPad",
-            "detailSubtitle": "Detail Subtitle",
-            "description": "Learn the RxSwift on iPad",
+            "detailSubtitle": "Learn the RxSwift on iPad",
+            "description": "使用回答模式在playground编写学习RxSwift编程",
             "contentIdentifier": "com.jinher.iTBoyer",
             "contentVersion": "1.0",
-            "url": "https://huos3203.github.io/iPlayBook/IntrotoCI/RxSwift.playgroundbook.zip",
+            "url": "https://huos3203.github.io/iPlayBook/iTBoyer/RxSwift.playgroundbook.zip",
             "publishedDate": "2018-06-23T12:07:20-0700",
             "lastUpdatedDate": "2018-06-23T12:07:20-0700",
-            "thumbnailURL": "IntrotoCI/thumbnail.png",
-            "bannerImageURL": "IntrotoCI/bannerImage.png",
+            "thumbnailURL": "iTBoyer/thumbnail.png",
+            "bannerImageURL": "iTBoyer/bannerImage.png",
             "additionalInformation": [
                 {
                     "name": "学习",
@@ -24,8 +24,8 @@
                 }
             ],
             "previewImageURLs": [
-                "IntrotoCI/previewImage.png",
-                "IntrotoCI/previewImage2.png"
+                "iTBoyer/previewImage.png",
+                "iTBoyer/previewImage2.png"
             ]
         },
         {},
