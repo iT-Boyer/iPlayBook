@@ -1,26 +1,26 @@
 {
     "title": "iTBoyer",
-    "publisherName": "Rx回答",
-    "feedIdentifier": "com.jinher",
+    "publisherName": "Swift基础开发",
+    "feedIdentifier": "com.iTBoyer",
     "contactURL": "mailto:iTBoyer@qq.com",
-    "formatVersion": "1.0",
+    "formatVersion": "2.0",
     "documents": [
         {
-            "title": "Rx回答",
-            "overviewSubtitle": "函数响应式编程",
-            "detailSubtitle": "Learn the RxSwift on iPad",
-            "description": "使用回答模式在playground编写学习RxSwift编程",
+            "title": "iDo",
+            "overviewSubtitle": "SnapKit+RxSwift编程",
+            "detailSubtitle": "",
+            "description": "使用回答模式在答.playgroundbook基础上，集成了SnapKit+RxSwift编程，协作swift基础开发",
             "contentIdentifier": "com.jinher.iTBoyer",
-            "contentVersion": "1.0",
-            "url": "iTBoyer/RxSwift.playgroundbook.zip",
-            "publishedDate": "2018-06-23T12:07:20-0700",
-            "lastUpdatedDate": "2018-06-23T12:07:20-0700",
+            "contentVersion": "2.0",
+            "url": "iTBoyer/iDo.zip",
+            "publishedDate": "2019-07-15T12:07:20-0700",
+            "lastUpdatedDate": "2019-07-15T12:07:20-0700",
             "thumbnailURL": "iTBoyer/thumbnail.png",
             "bannerImageURL": "iTBoyer/bannerImage.png",
             "additionalInformation": [
                 {
-                    "name": "学习",
-                    "value": "RxSwiftRxSwift"
+                    "name": "使用问答+SnapKit+RxSwift编程，实现日志输出，自动布局和函数响应式编程",
+                    "value": "RxSwift"
                 }
             ],
             "previewImageURLs": [
