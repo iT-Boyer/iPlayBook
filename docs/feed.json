@@ -1,18 +1,18 @@
 {
     "title": "iTBoyer",
-    "publisherName": "Rx回答",
-    "feedIdentifier": "com.jinher",
+    "publisherName": "Swift基础开发",
+    "feedIdentifier": "com.jinher.iTBoyer",
     "contactURL": "mailto:iTBoyer@qq.com",
     "formatVersion": "1.0",
     "documents": [
         {
-            "title": "Rx回答",
+            "title": "iDo",
             "overviewSubtitle": "函数响应式编程",
             "detailSubtitle": "Learn the RxSwift on iPad",
-            "description": "使用回答模式在playground编写学习RxSwift编程",
+            "description": "使用回答模式在答.playgroundbook基础上，集成了SnapKit+RxSwift编程，协作swift基础开发",
             "contentIdentifier": "com.jinher.iTBoyer",
             "contentVersion": "1.0",
-            "url": "iTBoyer/RxSwift.playgroundbook.zip",
+            "url": "iTBoyer/iDo.playgroundbook.zip",
             "publishedDate": "2018-06-23T12:07:20-0700",
             "lastUpdatedDate": "2018-06-23T12:07:20-0700",
             "thumbnailURL": "iTBoyer/thumbnail.png",
