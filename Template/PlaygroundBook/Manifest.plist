@@ -12,10 +12,20 @@
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>DeploymentTarget</key>
 	<string>$(PLAYGROUND_BOOK_DEPLOYMENT_TARGET_FOR_MANIFEST)</string>
+	<key>MinimumSwiftPlaygroundsVersion</key>
+	<string>3.0</string>
 	<key>SwiftVersion</key>
 	<string>$(SWIFT_VERSION)</string>
 	<key>Name</key>
 	<string>PlaygroundBookName</string>
+	<key>ImageReference</key>
+	<string>Answers.png</string>
+	<key>UserModuleMode</key>
+	<string>Full</string>
+	<key>UserAutoImportedAuxiliaryModules</key>
+	<array>
+		<string>Book</string>
+	</array>
 	<key>Chapters</key>
 	<array>
 		<string>Chapter1.playgroundchapter</string>
