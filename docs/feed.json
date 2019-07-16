@@ -1,7 +1,7 @@
 {
     "title": "iTBoyer",
     "publisherName": "Swift基础开发",
-    "feedIdentifier": "com.jinher.iTBoyer",
+    "feedIdentifier": "com.jinher",
     "contactURL": "mailto:iTBoyer@qq.com",
     "formatVersion": "1.0",
     "documents": [
@@ -9,10 +9,10 @@
             "title": "iDo",
             "overviewSubtitle": "函数响应式编程",
             "detailSubtitle": "Learn the RxSwift on iPad",
-            "description": "使用回答模式在答.playgroundbook基础上，集成了SnapKit+RxSwift编程，协作swift基础开发",
-            "contentIdentifier": "com.jinher.iTBoyer",
+            "description": "使用回答模式playgroundbook基础上，集成了SnapKit+RxSwift编程，协作swift基础开发",
+            "contentIdentifier": "com.jinher.iDo",
             "contentVersion": "1.0",
-            "url": "iTBoyer/iDo.playgroundbook.zip",
+            "url": "iTBoyer/iDo.zip",
             "publishedDate": "2018-06-23T12:07:20-0700",
             "lastUpdatedDate": "2018-06-23T12:07:20-0700",
             "thumbnailURL": "iTBoyer/thumbnail.png",
