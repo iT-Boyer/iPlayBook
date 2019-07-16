@@ -3,7 +3,7 @@
     "publisherName": "Swift基础开发",
     "feedIdentifier": "com.iTBoyer",
     "contactURL": "mailto:iTBoyer@qq.com",
-    "formatVersion": "2.0",
+    "formatVersion": "1.0",
     "documents": [
         {
             "title": "iDo",
@@ -11,7 +11,7 @@
             "detailSubtitle": "使用回答模式在答.playgroundbook基础上，集成了SnapKit+RxSwift编程，协作swift基础开发",
             "description": "使用回答模式在答.playgroundbook基础上，集成了SnapKit+RxSwift编程，协作swift基础开发",
             "contentIdentifier": "com.jinher.iTBoyer",
-            "contentVersion": "2.0",
+            "contentVersion": "1.0",
             "url": "iTBoyer/iDo.zip",
             "publishedDate": "2019-07-15T12:07:20-0700",
             "lastUpdatedDate": "2019-07-15T12:07:20-0700",
@@ -20,7 +20,7 @@
             "additionalInformation": [
                 {
                     "name": "使用问答+SnapKit+RxSwift编程，实现日志输出，自动布局和函数响应式编程",
-                    "value": "RxSwift"
+                    "value": "RxSwiftRxSwift"
                 }
             ],
             "previewImageURLs": [
