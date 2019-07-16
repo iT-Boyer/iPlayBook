@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		LQWUyA4iK+avBlm7+dxaBSdt9DY=
+		PUffFfFiYL/7CWLp1B8R5X/5ZS4=
 		</data>
 		<key>Headers/PlaygroundBluetooth.h</key>
 		<data>
@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		2wPuMP/Y6ocnMrltGgP6QnQls3M=
+		+lxj7rlAptf8eFbWVS6EZHwNAE4=
 		</data>
 		<key>Modules/PlaygroundBluetooth.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		GD836alLpushFV43/PFu3Ew/6NI=
+		VBO/UDaIsA8OrXF3382LIN76OuU=
 		</data>
 		<key>Modules/PlaygroundBluetooth.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		Ai6sIkc42hwN3xEx+nq1niNnbB8=
+		ejhtEvD3qscAxbdC5AWClXGIPxE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -37,6 +37,10 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>version.plist</key>
+		<data>
+		X4h/sxZ+waq+3vVs+P5bjblDNAU=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -44,11 +48,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LQWUyA4iK+avBlm7+dxaBSdt9DY=
+			PUffFfFiYL/7CWLp1B8R5X/5ZS4=
 			</data>
 			<key>hash2</key>
 			<data>
-			hjIEteQmjsNxNWEZJRiZajS1ydqvWaOEs6cM4+c2J1Y=
+			40OsfEuIa9KFBT2uHebk+SXqOy9A8ujOOXUcWJd6JkA=
 			</data>
 		</dict>
 		<key>Headers/PlaygroundBluetooth.h</key>
@@ -66,22 +70,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GD836alLpushFV43/PFu3Ew/6NI=
+			VBO/UDaIsA8OrXF3382LIN76OuU=
 			</data>
 			<key>hash2</key>
 			<data>
-			/B4DuVNgH9WYhZN8l2ZQQgd5HVU/fKyT7Vv91d695hg=
+			9TZ2KptVPVAzVNa8Rf0NHFEf9tGrjm5yP1yoX7f6BrU=
 			</data>
 		</dict>
 		<key>Modules/PlaygroundBluetooth.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ai6sIkc42hwN3xEx+nq1niNnbB8=
+			ejhtEvD3qscAxbdC5AWClXGIPxE=
 			</data>
 			<key>hash2</key>
 			<data>
-			lXgSZJyglJ2r4W3/xccmktYasfHQFLFwYdTk09l5KRQ=
+			lSR5QQSNRVgTM+0KIBmb4VNZpHmG+ESDMPBAzdHgDAc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -107,6 +111,17 @@
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>version.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			X4h/sxZ+waq+3vVs+P5bjblDNAU=
+			</data>
+			<key>hash2</key>
+			<data>
+			Jufg76BqcSqFVa60uESdGy4kfgoDST3oNZ1KD9hMioc=
+			</data>
 		</dict>
 	</dict>
 	<key>rules</key>

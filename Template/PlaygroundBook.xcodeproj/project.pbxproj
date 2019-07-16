@@ -20,7 +20,6 @@
 		5EF2F9AE2054BBF300191409 /* LiveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EF2F9AD2054BBF300191409 /* LiveViewController.swift */; };
 		5EF2F9B72054E6FB00191409 /* Chapters in Copy Book Contents */ = {isa = PBXBuildFile; fileRef = 5EF2F9B62054E6F900191409 /* Chapters */; };
 		5EF2F9B82054E6FE00191409 /* Sources in Copy Book Contents */ = {isa = PBXBuildFile; fileRef = 5EF2F9A52054BBB200191409 /* Sources */; };
-		84FAEF5A2276E20800A1D9A7 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 84FAEF592276E20800A1D9A7 /* index.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXBuildRule section */
@@ -38,6 +37,13 @@
 /* End PBXBuildRule section */
 
 /* Begin PBXContainerItemProxy section */
+		5EA2E3CF2056F36100416A35 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5E2A7ADD204F611300F4E17A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5E086DBF2051C5A7004D8D25;
+			remoteInfo = PlaygroundBook;
+		};
 		5EA2E3D12056F36300416A35 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 5E2A7ADD204F611300F4E17A /* Project object */;
@@ -84,12 +90,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		5E086DC02051C5A7004D8D25 /* iTBoyer.playgroundbook */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iTBoyer.playgroundbook; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E086DC02051C5A7004D8D25 /* PlaygroundBook.playgroundbook */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PlaygroundBook.playgroundbook; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E086DC72051DD03004D8D25 /* BookOverridingBuildSettings.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = BookOverridingBuildSettings.xcconfig; sourceTree = "<group>"; };
 		5E086DCD2051DDB8004D8D25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LiveView.storyboard; sourceTree = "<group>"; };
 		5E086DCF2051DF0F004D8D25 /* Manifest.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Manifest.plist; sourceTree = "<group>"; };
 		5E0E37522065981C008FA4BE /* BuildSettings.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = BuildSettings.xcconfig; sourceTree = "<group>"; };
-		5E0E37542065A065008FA4BE /* README.md */ = {isa = PBXFileReference; explicitFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; usesTabs = 0; wrapsLines = 1; };
+		5E0E37542065A065008FA4BE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5E1004BE208E7F6E00BCFE70 /* LICENSE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		5E2A7AE6204F630600F4E17A /* BaseBuildSettings.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = BaseBuildSettings.xcconfig; sourceTree = "<group>"; };
 		5E3196F22061DEA40077BBD7 /* LiveViewSupport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveViewSupport.swift; sourceTree = "<group>"; };
@@ -105,19 +111,6 @@
 		5EF2F9AB2054BBF300191409 /* libBook_Sources.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libBook_Sources.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EF2F9AD2054BBF300191409 /* LiveViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveViewController.swift; sourceTree = "<group>"; };
 		5EF2F9B62054E6F900191409 /* Chapters */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapters; sourceTree = "<group>"; };
-		84FAEF592276E20800A1D9A7 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
-		84FAEF5B2276E3BF00A1D9A7 /* feed.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = feed.json; sourceTree = "<group>"; };
-		84FAEF5D2276EB1700A1D9A7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		84FAEF602276F99B00A1D9A7 /* RxSwift.playgroundbook.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = RxSwift.playgroundbook.zip; sourceTree = "<group>"; };
-		84FAEF612276F99B00A1D9A7 /* previewImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = previewImage.png; sourceTree = "<group>"; };
-		84FAEF622276F99B00A1D9A7 /* thumbnail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumbnail.png; sourceTree = "<group>"; };
-		84FAEF632276F99B00A1D9A7 /* previewImage2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = previewImage2.png; sourceTree = "<group>"; };
-		84FAEF642276F99B00A1D9A7 /* bannerImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bannerImage.png; sourceTree = "<group>"; };
-		84FAEF66227710E500A1D9A7 /* bannerImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bannerImage.png; path = ../iTBoyer/bannerImage.png; sourceTree = "<group>"; };
-		84FAEF67227710E500A1D9A7 /* thumbnail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = thumbnail.png; path = ../iTBoyer/thumbnail.png; sourceTree = "<group>"; };
-		84FAEF68227710E500A1D9A7 /* previewImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = previewImage.png; path = ../iTBoyer/previewImage.png; sourceTree = "<group>"; };
-		84FAEF69227710E500A1D9A7 /* previewImage2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = previewImage2.png; path = ../iTBoyer/previewImage2.png; sourceTree = "<group>"; };
-		84FAEF6B2277110600A1D9A7 /* WWDC17.playgroundbook.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = WWDC17.playgroundbook.zip; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,7 +135,7 @@
 		5E086DA4204F706E004D8D25 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5E086DC02051C5A7004D8D25 /* iTBoyer.playgroundbook */,
+				5E086DC02051C5A7004D8D25 /* PlaygroundBook.playgroundbook */,
 				5EF2F9AB2054BBF300191409 /* libBook_Sources.a */,
 				5EA2E3BD2056F35A00416A35 /* LiveViewTestApp.app */,
 			);
@@ -188,7 +181,6 @@
 		5E2A7ADC204F611300F4E17A = {
 			isa = PBXGroup;
 			children = (
-				84FAEF582276E1E000A1D9A7 /* docs */,
 				5E0E37542065A065008FA4BE /* README.md */,
 				5E086DC12051C5A7004D8D25 /* PlaygroundBook */,
 				5EA2E3BE2056F35A00416A35 /* LiveViewTestApp */,
@@ -272,43 +264,6 @@
 			name = "Supporting Content";
 			sourceTree = "<group>";
 		};
-		84FAEF582276E1E000A1D9A7 /* docs */ = {
-			isa = PBXGroup;
-			children = (
-				84FAEF592276E20800A1D9A7 /* index.html */,
-				84FAEF5B2276E3BF00A1D9A7 /* feed.json */,
-				84FAEF5C2276EA5000A1D9A7 /* iTBoyer */,
-				84FAEF6522770FFE00A1D9A7 /* WWDC17 */,
-				84FAEF5D2276EB1700A1D9A7 /* README.md */,
-			);
-			name = docs;
-			path = ../docs;
-			sourceTree = "<group>";
-		};
-		84FAEF5C2276EA5000A1D9A7 /* iTBoyer */ = {
-			isa = PBXGroup;
-			children = (
-				84FAEF642276F99B00A1D9A7 /* bannerImage.png */,
-				84FAEF612276F99B00A1D9A7 /* previewImage.png */,
-				84FAEF632276F99B00A1D9A7 /* previewImage2.png */,
-				84FAEF602276F99B00A1D9A7 /* RxSwift.playgroundbook.zip */,
-				84FAEF622276F99B00A1D9A7 /* thumbnail.png */,
-			);
-			path = iTBoyer;
-			sourceTree = "<group>";
-		};
-		84FAEF6522770FFE00A1D9A7 /* WWDC17 */ = {
-			isa = PBXGroup;
-			children = (
-				84FAEF66227710E500A1D9A7 /* bannerImage.png */,
-				84FAEF68227710E500A1D9A7 /* previewImage.png */,
-				84FAEF69227710E500A1D9A7 /* previewImage2.png */,
-				84FAEF67227710E500A1D9A7 /* thumbnail.png */,
-				84FAEF6B2277110600A1D9A7 /* WWDC17.playgroundbook.zip */,
-			);
-			path = WWDC17;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -327,7 +282,7 @@
 			);
 			name = PlaygroundBook;
 			productName = PlaygroundBook;
-			productReference = 5E086DC02051C5A7004D8D25 /* iTBoyer.playgroundbook */;
+			productReference = 5E086DC02051C5A7004D8D25 /* PlaygroundBook.playgroundbook */;
 			productType = "com.apple.product-type.bundle";
 		};
 		5EA2E3BC2056F35A00416A35 /* LiveViewTestApp */ = {
@@ -343,6 +298,7 @@
 			buildRules = (
 			);
 			dependencies = (
+				5EA2E3D02056F36100416A35 /* PBXTargetDependency */,
 				5EA2E3D22056F36300416A35 /* PBXTargetDependency */,
 			);
 			name = LiveViewTestApp;
@@ -384,7 +340,7 @@
 					};
 					5EF2F9AA2054BBF300191409 = {
 						CreatedOnToolsVersion = 9.3;
-						LastSwiftMigration = 1000;
+						LastSwiftMigration = 1020;
 					};
 				};
 			};
@@ -413,7 +369,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84FAEF5A2276E20800A1D9A7 /* index.html in Resources */,
 				5EF2F97C2054B6E400191409 /* ManifestPlist.strings in Resources */,
 				5E086DCA2051DDAE004D8D25 /* LiveView.storyboard in Resources */,
 			);
@@ -469,6 +424,11 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
+		5EA2E3D02056F36100416A35 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5E086DBF2051C5A7004D8D25 /* PlaygroundBook */;
+			targetProxy = 5EA2E3CF2056F36100416A35 /* PBXContainerItemProxy */;
+		};
 		5EA2E3D22056F36300416A35 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 5EF2F9AA2054BBF300191409 /* Book_Sources */;
@@ -513,10 +473,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5E086DC72051DD03004D8D25 /* BookOverridingBuildSettings.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1.0;
-				DEVELOPMENT_TEAM = C556M74S8M;
 				GCC_DYNAMIC_NO_PIC = NO;
 				INSTALL_PATH = /;
 				PRODUCT_BUNDLE_IDENTIFIER = "$(PLAYGROUND_BOOK_CONTENT_IDENTIFIER)";
@@ -529,10 +487,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5E086DC72051DD03004D8D25 /* BookOverridingBuildSettings.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1.0;
-				DEVELOPMENT_TEAM = C556M74S8M;
 				INSTALL_PATH = /;
 				PRODUCT_BUNDLE_IDENTIFIER = "$(PLAYGROUND_BOOK_CONTENT_IDENTIFIER)";
 				PRODUCT_NAME = "$(PLAYGROUND_BOOK_FILE_NAME)";
@@ -596,7 +552,7 @@
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -650,19 +606,19 @@
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
 		5EA2E3CC2056F35B00416A35 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = C556M74S8M;
+				DEVELOPMENT_TEAM = "";
 				GCC_DYNAMIC_NO_PIC = NO;
 				INFOPLIST_FILE = LiveViewTestApp/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -671,7 +627,6 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.LiveViewTestApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_VERSION = 4.2;
 				SYSTEM_FRAMEWORK_SEARCH_PATHS = (
 					"\"$(OTHER_FRAMEWORKS_DIR)\"",
 					"$(inherited)",
@@ -682,11 +637,11 @@
 		5EA2E3CD2056F35B00416A35 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = C556M74S8M;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = LiveViewTestApp/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -694,7 +649,6 @@
 				OTHER_LDFLAGS = "-all_load";
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.LiveViewTestApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
 				SYSTEM_FRAMEWORK_SEARCH_PATHS = (
 					"\"$(OTHER_FRAMEWORKS_DIR)\"",
 					"$(inherited)",
@@ -706,7 +660,6 @@
 		5EF2F9B02054BBF300191409 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_IDENTITY = "";
 				CODE_SIGN_STYLE = Manual;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -714,21 +667,18 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OBJC_INTERFACE_HEADER_NAME = "";
-				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
 		5EF2F9B12054BBF300191409 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_IDENTITY = "";
 				CODE_SIGN_STYLE = Manual;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OBJC_INTERFACE_HEADER_NAME = "";
-				SWIFT_VERSION = 4.2;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;

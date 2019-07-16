@@ -10,19 +10,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		AINBBMh1ER0Ho3LlVgvyXLz3DUI=
+		YXDLZ//BEmYDT3oAvAIuMx0IMe8=
 		</data>
 		<key>Modules/PlaygroundSupport.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		mS0IzztVK5K/Qtx6nK2wn1CKIXA=
+		L8r0o98pJ6iWFWIxS/y6JBpdYnk=
 		</data>
 		<key>Modules/PlaygroundSupport.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		4rCYi3LGK0bTgD+STXk4/K46EYA=
+		7Ss2EqmrKvnc3qb0IL2am5BQa+8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		naQq1dmrWEVVlq+/T3hlDhMKT4Y=
+		</data>
+		<key>version.plist</key>
+		<data>
+		yvFNvepAhXd9GWvZUph+16bhv9M=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -42,22 +46,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mS0IzztVK5K/Qtx6nK2wn1CKIXA=
+			L8r0o98pJ6iWFWIxS/y6JBpdYnk=
 			</data>
 			<key>hash2</key>
 			<data>
-			+/r162AOs/GyOQM4NXJ/hHlAUpt5qJqN7/mhPphGxX4=
+			xA3rHrBHNwbNG+8ZJ9U2BKhHRYVSzXf/Dl/BRk/x4sI=
 			</data>
 		</dict>
 		<key>Modules/PlaygroundSupport.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4rCYi3LGK0bTgD+STXk4/K46EYA=
+			7Ss2EqmrKvnc3qb0IL2am5BQa+8=
 			</data>
 			<key>hash2</key>
 			<data>
-			aNWO2zJpe2j2dpOnKVDdjEHoTWcK9Q235vzuxhr3+D8=
+			ovtlkbDBBgZXw2jmz4dC9sXtXaTsvGNaMUWfXAguNlI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -69,6 +73,17 @@
 			<key>hash2</key>
 			<data>
 			9OPknZ22wbFiKF2TyTByy43k3bQHOdYthbB+Gw+CykI=
+			</data>
+		</dict>
+		<key>version.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yvFNvepAhXd9GWvZUph+16bhv9M=
+			</data>
+			<key>hash2</key>
+			<data>
+			k6dj6jOPaE9NvoiinhhVDP0xz0bZT011eqb3dTuA648=
 			</data>
 		</dict>
 	</dict>

@@ -1,3 +1,5 @@
+[下载最新模版](https://developer.apple.com/download/more/?=Swift%20Playgrounds%20Author%20Template)
+ 
 `feed.json` 对应`docs`下的目录结构
 ### 找出目录名:
 在`documents`数组中的字典对象的`contentIdentifier`的前缀就是`feedIdentifier`的值.  
@@ -13,3 +15,5 @@ docs目录下的目录名:`contentIdentifier`去除`feedIdentifier`前缀后的�
 WWDC18 中的 创建您自己的 Swift Playgrounds 订阅内容.  
 [订阅案例](https://wwdcphotofilters.github.io)
 
+
+[简书:WWDC2018: 创建属于你自己的 Swift](https://www.jianshu.com/p/7f00c5d18ffc)

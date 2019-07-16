@@ -18,19 +18,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		GU35InqZGkOjUFo2SXaKCkN/dEY=
+		DQjjCSECedlnpmyGe+wlQOe2P+Q=
 		</data>
 		<key>Modules/LiveViewHost.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		RcKDrdNDhdMlDTyexMENQVPM1Gs=
+		Pf4AcadWnE7hTx/rCCDrS0vp7cc=
 		</data>
 		<key>Modules/LiveViewHost.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		WgQw76iVTx7Bgg8Y9A+ex7kAH6s=
+		lzGviwrZ4HaFndOwjrS1V7fW/us=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		wbBJ01HD+QOtrC3j8UYGj4MLjkc=
+		</data>
+		<key>version.plist</key>
+		<data>
+		yvFNvepAhXd9GWvZUph+16bhv9M=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -72,22 +76,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RcKDrdNDhdMlDTyexMENQVPM1Gs=
+			Pf4AcadWnE7hTx/rCCDrS0vp7cc=
 			</data>
 			<key>hash2</key>
 			<data>
-			Mp5wJItTq1Xsi/+QBsT8H5ouDRMEwzE2sy3Vd0SS3fs=
+			IBibgxu2QkmjN/zXcj5+V3ejPXTGZbZJNjKdBPfqi/4=
 			</data>
 		</dict>
 		<key>Modules/LiveViewHost.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WgQw76iVTx7Bgg8Y9A+ex7kAH6s=
+			lzGviwrZ4HaFndOwjrS1V7fW/us=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ii/Z6aYTcW/BV9gp5j5Cp9ot5kr+iUV68mrSWEqRY4U=
+			RBNnv5l6N+jmdHvSl+jMZ+6eHYS8aiTwTiXXcEme9Ds=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -99,6 +103,17 @@
 			<key>hash2</key>
 			<data>
 			oCZJDkJCW/8imzJCKOZeEEtXZrQHkn5YWvOfK4yoYBc=
+			</data>
+		</dict>
+		<key>version.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yvFNvepAhXd9GWvZUph+16bhv9M=
+			</data>
+			<key>hash2</key>
+			<data>
+			k6dj6jOPaE9NvoiinhhVDP0xz0bZT011eqb3dTuA648=
 			</data>
 		</dict>
 	</dict>
