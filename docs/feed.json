@@ -1,7 +1,7 @@
 {
     "title": "iTBoyer",
     "publisherName": "Swift基础开发",
-    "feedIdentifier": "com.iTBoyer",
+    "feedIdentifier": "com.jinher.iTBoyer",
     "contactURL": "mailto:iTBoyer@qq.com",
     "formatVersion": "1.0",
     "documents": [
