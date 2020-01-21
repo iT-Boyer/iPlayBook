@@ -3,7 +3,7 @@
     "publisherName": "Swift基础开发",
     "feedIdentifier": "com.jinher",
     "contactURL": "mailto:iTBoyer@qq.com",
-    "formatVersion": "1.0",
+    "formatVersion": "1.1",
     "documents": [
         {
             "title": "iDo",
@@ -11,7 +11,7 @@
             "detailSubtitle": "Learn the RxSwift on iPad",
             "description": "使用回答模式playgroundbook基础上，集成了SnapKit+RxSwift编程，协作swift基础开发",
             "contentIdentifier": "com.jinher.iDo",
-            "contentVersion": "1.0",
+            "contentVersion": "1.1",
             "url": "iTBoyer/iDo.zip",
             "publishedDate": "2018-06-23T12:07:20-0700",
             "lastUpdatedDate": "2018-06-23T12:07:20-0700",

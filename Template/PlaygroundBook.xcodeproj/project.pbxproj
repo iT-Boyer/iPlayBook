@@ -1042,6 +1042,21 @@
 				Base,
 				zh_CN,
 				"zh-Hans",
+				de,
+				ja,
+				es_419,
+				"es-419",
+				es,
+				it,
+				sv,
+				ko,
+				tr,
+				zh_TW,
+				"zh-Hant",
+				fr,
+				nl,
+				th,
+				pt,
 			);
 			mainGroup = 5E2A7ADC204F611300F4E17A;
 			productRefGroup = 5E086DA4204F706E004D8D25 /* Products */;

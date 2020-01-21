@@ -10,10 +10,10 @@
 import Foundation
 //#-end-hidden-code
 //#-editable-code Tap to enter code
-show("/*#-localizable-zone(whatIsYourNameText)*/What is your name?/*#-end-localizable-zone*/")
+show("你叫什么名字？")
 
-let name = ask("/*#-localizable-zone(nameText)*/Name/*#-end-localizable-zone*/")
+let name = ask("姓名")
 
-show("/*#-localizable-zone(hiText)*/Hi /*#-end-localizable-zone*/" + name)
+show("嗨，" + name)
 
 //#-end-editable-code
