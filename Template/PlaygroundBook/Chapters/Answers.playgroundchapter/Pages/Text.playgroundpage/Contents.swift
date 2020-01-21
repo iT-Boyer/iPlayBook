@@ -10,10 +10,10 @@
 import Foundation
 //#-end-hidden-code
 //#-editable-code Tap to enter code
-//show("你叫什么名字？")
-//
-//let name = ask("姓名")
-//
-//show("嗨，" + name)
+show("你叫什么名字？")
+
+let name = ask("姓名")
+
+show("嗨，" + name)
 
 //#-end-editable-code

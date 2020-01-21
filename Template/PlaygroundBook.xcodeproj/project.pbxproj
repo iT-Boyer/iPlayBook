@@ -224,8 +224,6 @@
 		F90DA42B23D7126D00799C00 /* BackgroundGradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90DA36123D7126C00799C00 /* BackgroundGradientView.swift */; };
 		F90DA42C23D7126D00799C00 /* AnswersPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90DA36323D7126C00799C00 /* AnswersPlayground.swift */; };
 		F90DA42D23D7126D00799C00 /* AnswersLiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90DA36423D7126C00799C00 /* AnswersLiveView.swift */; };
-		F90DA43023D713E400799C00 /* Contents.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90DA42E23D713E400799C00 /* Contents.swift */; };
-		F90DA43123D713E400799C00 /* LiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90DA42F23D713E400799C00 /* LiveView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXBuildRule section */
@@ -525,8 +523,6 @@
 		F90DA36123D7126C00799C00 /* BackgroundGradientView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BackgroundGradientView.swift; sourceTree = "<group>"; };
 		F90DA36323D7126C00799C00 /* AnswersPlayground.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnswersPlayground.swift; sourceTree = "<group>"; };
 		F90DA36423D7126C00799C00 /* AnswersLiveView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnswersLiveView.swift; sourceTree = "<group>"; };
-		F90DA42E23D713E400799C00 /* Contents.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Contents.swift; path = Chapters/Answers.playgroundchapter/Pages/Text.playgroundpage/Contents.swift; sourceTree = "<group>"; };
-		F90DA42F23D713E400799C00 /* LiveView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LiveView.swift; path = Chapters/Answers.playgroundchapter/Pages/Text.playgroundpage/LiveView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -562,8 +558,6 @@
 			isa = PBXGroup;
 			children = (
 				5E086DCF2051DF0F004D8D25 /* Manifest.plist */,
-				F90DA42E23D713E400799C00 /* Contents.swift */,
-				F90DA42F23D713E400799C00 /* LiveView.swift */,
 				F90DA0B723D6EAC800799C00 /* Modules */,
 				5EF2F9792054B64800191409 /* PrivateResources */,
 				5EF2F9B62054E6F900191409 /* Chapters */,
@@ -1157,7 +1151,6 @@
 				F90DA3DA23D7126D00799C00 /* Zip.swift in Sources */,
 				F90DA38323D7126D00799C00 /* CurrentThreadScheduler.swift in Sources */,
 				F90DA36823D7126D00799C00 /* Cancelable.swift in Sources */,
-				F90DA43023D713E400799C00 /* Contents.swift in Sources */,
 				F90DA18D23D6EAC900799C00 /* LiveViewController.swift in Sources */,
 				F90DA39523D7126D00799C00 /* InvocableScheduledItem.swift in Sources */,
 				F90DA3D023D7126D00799C00 /* Queue.swift in Sources */,
@@ -1210,7 +1203,6 @@
 				F90DA3DE23D7126D00799C00 /* ConnectableObservableType.swift in Sources */,
 				F90DA3D723D7126D00799C00 /* CombineLatest+arity.swift in Sources */,
 				F90DA37023D7126D00799C00 /* RetryWhen.swift in Sources */,
-				F90DA43123D713E400799C00 /* LiveView.swift in Sources */,
 				F90DA3B623D7126D00799C00 /* SkipWhile.swift in Sources */,
 				F90DA37C23D7126D00799C00 /* DeprecationWarner.swift in Sources */,
 				F90DA37F23D7126D00799C00 /* AsyncSubject.swift in Sources */,
