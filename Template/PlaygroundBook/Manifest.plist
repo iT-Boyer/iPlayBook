@@ -17,9 +17,9 @@
 	<key>SwiftVersion</key>
 	<string>$(SWIFT_VERSION)</string>
 	<key>Name</key>
-	<string>PlaygroundBookName</string>
+	<string>iTBoyer</string>
 	<key>ImageReference</key>
-	<string>Answers.png</string>
+	<string>itboyer.png</string>
 	<key>UserModuleMode</key>
 	<string>Full</string>
 	<key>UserAutoImportedAuxiliaryModules</key>
@@ -28,7 +28,7 @@
 	</array>
 	<key>Chapters</key>
 	<array>
-		<string>Chapter1.playgroundchapter</string>
+		<string>Answers.playgroundchapter</string>
 	</array>
 </dict>
 </plist>
