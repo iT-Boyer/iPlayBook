@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Version</key>
-	<string>4.0</string>
+	<string>7.0</string>
 	<key>ContentIdentifier</key>
 	<string>$(PLAYGROUND_BOOK_CONTENT_IDENTIFIER)</string>
 	<key>ContentVersion</key>
@@ -13,7 +13,7 @@
 	<key>DeploymentTarget</key>
 	<string>$(PLAYGROUND_BOOK_DEPLOYMENT_TARGET_FOR_MANIFEST)</string>
 	<key>MinimumSwiftPlaygroundsVersion</key>
-	<string>3.0</string>
+	<string>7.0</string>
 	<key>SwiftVersion</key>
 	<string>$(SWIFT_VERSION)</string>
 	<key>Name</key>
@@ -30,5 +30,7 @@
 	<array>
 		<string>Answers.playgroundchapter</string>
 	</array>
+	<key>SupportsDarkMode</key>
+	<true/>
 </dict>
 </plist>
