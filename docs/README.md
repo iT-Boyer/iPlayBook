@@ -32,5 +32,8 @@ Expected in: /Library/Developer/Toolchains/swift-5.0.1-RELEASE.xctoolchain/usr/l
 in /Users/admin/Library/Developer/CoreSimulator/Devices/5B052465-0628-4119-830D-F62E6FF2490A/data/Containers/Bundle/Application/1BD3094C-9020-42C4-9D0C-8BD4EDCCD98D/LiveViewTestApp.app/Frameworks/PlaygroundSupport.framework/PlaygroundSupport
 ```
 
-升级或解决方案：
+升级或解决方案：  
 下载最新：`Swift_Playgrounds_Author_Template_for_Xcode_11.1.xip`，解压之后把`Template`目录下的`SupportingContent`替换该项目中对应的目录即可。
+
+怎么出现11.3的？11.3新增三个target.
+
