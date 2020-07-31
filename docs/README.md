@@ -35,5 +35,7 @@ in /Users/admin/Library/Developer/CoreSimulator/Devices/5B052465-0628-4119-830D-
 升级或解决方案：  
 下载最新：`Swift_Playgrounds_Author_Template_for_Xcode_11.1.xip`，解压之后把`Template`目录下的`SupportingContent`替换该项目中对应的目录即可。
 
-怎么出现11.3的？11.3新增三个target.
+11.3新增三个target，出最新版本在做升级。
+
+
 
